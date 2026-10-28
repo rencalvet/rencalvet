@@ -7,7 +7,7 @@
 
 I'm a QA automation engineer. From <img src="badges/brazil.svg" alt="Brazil" height="20" align="center">, currently living in <img src="badges/portugal.svg" alt="Portugal" height="20" align="center">.
 
-I build test suites for mobile and web products: Playwright for the web, WebdriverIO and Appium on Android and iOS (XCode), Postman and Playwright for REST APIs, k6 for load. The suites run in CI/CD pipelines on GitLab and GitHub. Most of my work lives in private company repositories, so the graph below shows only part of it.
+I build test suites for mobile and web products: Playwright for the web, WebdriverIO and Appium on Android and iOS, Postman and Playwright for REST APIs, k6 for load. The suites run in CI/CD pipelines on GitLab and GitHub. Most of my work lives in private company repositories, so the graph below shows only part of it.
 
 ### Things I test with
 
