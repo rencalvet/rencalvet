@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="452" viewBox="0 0 830 452" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+  <rect x="0.5" y="0.5" width="829" height="451" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="20" y="32.8" xml:space="preserve"><tspan fill="#6e7781">$</tspan><tspan fill="#1f2328"> npx wdio run ./profile.conf.ts</tspan></text>
+  <text x="20" y="53.6" xml:space="preserve"></text>
+  <text x="20" y="74.4" xml:space="preserve"><tspan fill="#1f2328" font-weight="600">Renan Calvet</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#1f2328">QA Automation Engineer</tspan></text>
+  <text x="20" y="95.2" xml:space="preserve"></text>
+  <text x="20" y="116.0" xml:space="preserve"><tspan fill="#1f2328" font-weight="600">  Stack</tspan></text>
+  <text x="20" y="136.8" xml:space="preserve"><tspan fill="#1a7f37">    ✓</tspan><tspan fill="#1f2328"> mobile     WebdriverIO + Appium </tspan><tspan fill="#6e7781">· Android and iOS</tspan></text>
+  <text x="20" y="157.6" xml:space="preserve"><tspan fill="#1a7f37">    ✓</tspan><tspan fill="#1f2328"> web        Playwright</tspan></text>
+  <text x="20" y="178.4" xml:space="preserve"><tspan fill="#1a7f37">    ✓</tspan><tspan fill="#1f2328"> api        REST </tspan><tspan fill="#6e7781">·</tspan><tspan fill="#1f2328"> Postman, Playwright request</tspan></text>
+  <text x="20" y="199.2" xml:space="preserve"><tspan fill="#1a7f37">    ✓</tspan><tspan fill="#1f2328"> load       k6</tspan></text>
+  <text x="20" y="220.0" xml:space="preserve"><tspan fill="#1a7f37">    ✓</tspan><tspan fill="#1f2328"> ci/cd      GitLab CI, GitHub Actions</tspan></text>
+  <text x="20" y="240.8" xml:space="preserve"><tspan fill="#1a7f37">    ✓</tspan><tspan fill="#1f2328"> test mgmt  Qase.io</tspan></text>
+  <text x="20" y="261.6" xml:space="preserve"><tspan fill="#1a7f37">    ✓</tspan><tspan fill="#1f2328"> languages  TypeScript, Python</tspan></text>
+  <text x="20" y="282.4" xml:space="preserve"><tspan fill="#1f2328" font-weight="600">  Activity</tspan></text>
+  <text x="20" y="303.2" xml:space="preserve"><tspan fill="#1a7f37">    ✓</tspan><tspan fill="#1f2328"> 2,633 commits since 2021, most in private company repositories</tspan></text>
+  <text x="20" y="324.0" xml:space="preserve"><tspan fill="#1a7f37">    ✓</tspan><tspan fill="#1f2328"> 911 active days</tspan></text>
+  <text x="20" y="344.8" xml:space="preserve"><tspan fill="#9a6700">    -</tspan><tspan fill="#1f2328"> mobile-demo   </tspan><tspan fill="#6e7781">public in November</tspan></text>
+  <text x="20" y="365.6" xml:space="preserve"><tspan fill="#9a6700">    -</tspan><tspan fill="#1f2328"> web-api-demo  </tspan><tspan fill="#6e7781">public in November</tspan></text>
+  <text x="20" y="386.4" xml:space="preserve"></text>
+  <text x="20" y="407.2" xml:space="preserve"><tspan fill="#1a7f37">  9 passing</tspan><tspan fill="#6e7781"> (911d)</tspan></text>
+  <text x="20" y="428.0" xml:space="preserve"><tspan fill="#9a6700">  2 pending</tspan></text>
+</svg>
