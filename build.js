@@ -16,8 +16,8 @@ const MONO = "'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, m
 const SANS = "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif";
 
 const stats = {
-  commits: 2423,
-  activeDays: 886,
+  commits: 2377,
+  activeDays: 898,
   months: [
     ["Jan", 55], ["Feb", 39], ["Mar", 44], ["Apr", 48], ["May", 46],
     ["Jun", 52], ["Jul", 39], ["Aug", 126], ["Sep", 71], ["Oct", 64]
