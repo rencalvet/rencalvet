@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="230" viewBox="0 0 830 230">
+  <rect x="0.5" y="0.5" width="409" height="109" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="14" y="27" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="600" fill="#0969da">mobile-demo</text>
+  <rect x="295.3" y="13.5" width="101.2" height="19" rx="9.5" fill="none" stroke="#9a6700"/>
+  <text x="345.4" y="27" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#9a6700">planned · Nov</text>
+  <text x="14" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">WebdriverIO + Appium on a public demo app. One locator</text>
+  <text x="14" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">per element for Android and iOS, page objects, Allure</text>
+  <text x="14" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">report. CI on an emulator and a simulator.</text>
+  <rect x="420.5" y="0.5" width="409" height="109" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="434" y="27" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="600" fill="#0969da">web-api-demo</text>
+  <rect x="715.3" y="13.5" width="101.2" height="19" rx="9.5" fill="none" stroke="#9a6700"/>
+  <text x="765.4" y="27" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#9a6700">planned · Nov</text>
+  <text x="434" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">Playwright for the web and the API, k6 for load, all</text>
+  <text x="434" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">against a demo shop that runs in Docker inside the CI.</text>
+  <rect x="0.5" y="120.5" width="409" height="109" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="14" y="147" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="600" fill="#0969da">lockator</text>
+  <rect x="295.3" y="133.5" width="101.2" height="19" rx="9.5" fill="none" stroke="#9a6700"/>
+  <text x="345.4" y="147" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#9a6700">planned · Dec</text>
+  <text x="14" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">Collects candidate locators from a running web page or</text>
+  <text x="14" y="198" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">mobile screen and writes them as a table ready for the</text>
+  <text x="14" y="218" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">test docs.</text>
+  <rect x="420.5" y="120.5" width="409" height="109" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="434" y="147" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="600" fill="#0969da">qa-templates</text>
+  <rect x="715.3" y="133.5" width="101.2" height="19" rx="9.5" fill="none" stroke="#9a6700"/>
+  <text x="765.4" y="147" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#9a6700">planned · Dec</text>
+  <text x="434" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">The test grid, the bug ticket and the release plan I</text>
+  <text x="434" y="198" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">use, in a generic version.</text>
+</svg>
